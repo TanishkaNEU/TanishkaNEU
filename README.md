@@ -1,3 +1,4 @@
+## 🚀 Data Enthusiast | Data Analyst and Machine Learning Specialist
 
 I am Tanishka Adhlakha, a data analytics professional with a Master of Science in Data Analytics Engineering from Northeastern University. I have over three years of experience in data analysis, machine learning, and business intelligence, having worked at Amazon Robotics and Cognizant Technology Solutions. I am proficient in SQL, Python, and data visualization tools like Tableau and Power BI. I am passionate about using data to drive strategic decisions and improve business processes.
 
