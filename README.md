@@ -12,7 +12,7 @@ I am Tanishka Adhlakha, a data analytics professional with a Master of Science i
 
 -   **LinkedIn**:  [Tanishka Adhlakha](https://www.linkedin.com/in/tanishka-adhlakha/)
 -   **GitHub**:  [TanishkaNEU](https://github.com/TanishkaNEU)
--   **Email**:  adhlakha.t@northeastern.edu
+-   **Email**:  tanishkaadhlakha@gmail.com
 
 
 ## Programming Languages
